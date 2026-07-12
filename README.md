@@ -14,5 +14,6 @@ I’m a Computer Science student passionate about technology, problem-solving, a
 
 ---
 [![](https://komarev.com/ghpvc/?username=jagadiswarambati&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=jagadiswarambati&color=blue)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
