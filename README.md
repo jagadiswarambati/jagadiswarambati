@@ -20,6 +20,11 @@ I enjoy exploring **Web Development, App Development, Artificial Intelligence, R
 - ☁️ Exploring Cloud, APIs and Databases
 
 ---
+# 🐍 My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jagadiswarambati/jagadiswarambati/output/github-snake.gif" alt="GitHub Contribution Snake"/>
+</p>
 
 ## 🌐 Connect With Me
 
