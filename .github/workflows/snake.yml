@@ -16,13 +16,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: jagadiswarambati
           outputs: |
-            dist/github-snake.gif
-            dist/github-snake.svg
+            dist/github-snake.gif?color_snake=#FF7B72&color_background=#0D1117
+            dist/github-snake.svg?palette=github-dark
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Deploy Snake
