@@ -1,29 +1,128 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ambati Jagadiswar Reddy
-================================================================================================================================================
+# Hi, I'm Jagadiswar Ambati 👋
 
-Web and App development and AI learner
---------------------------------------
+### Computer Science Student | AI & RAG Enthusiast | Full-Stack Developer | Hackathon Builder
 
-I’m a Computer Science student passionate about technology, problem-solving, and building practical solutions. I enjoy exploring web and app development, integrating AI into projects, participating in hackathons, and continuously learning new technologies.
+I’m a Computer Science student passionate about technology, problem-solving, and building practical solutions.
 
-* 🌍  I'm based in Hyderabad
-* ✉️  You can contact me at [ambatijagadiswarreddy@gmail.com](mailto:ambatijagadiswarreddy@gmail.com)
+I enjoy exploring **Web Development, App Development, Artificial Intelligence, RAG Systems**, and new technologies. I also enjoy participating in hackathons and turning ideas into working projects.
+
+---
+
+## 💫 About Me
+
+- 🎓 Computer Science student
+- 🤖 Exploring **Artificial Intelligence & Generative AI**
+- 🔎 Learning and building **Retrieval-Augmented Generation (RAG) systems**
+- 🌐 Interested in **Full-Stack Web Development**
+- 📱 Exploring **Application Development**
+- 🏆 Interested in **Hackathons & Innovation**
+- 🧠 Improving my **Data Structures & Problem Solving** skills
+- ☁️ Exploring **Cloud, APIs, Databases & Backend Systems**
+- 🚀 Always learning and building
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" alt="NestJS" title="NestJS" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>
+
+<a href="https://github.com/jagadiswarambati">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ambati-jagadiswar-reddy-b17697366/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/jagadiswarambati" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/jagadiswarambati" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+# 💻 Tech Stack
 
-<b>My GitHub Stats</b>
+### 👨‍💻 Programming Languages
 
-<a href="http://www.github.com/jagadiswarambati"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jagadiswarambati&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="left">
 
-<a href="https://github.com/jagadiswarambati" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadiswarambati&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css" />
 
-<b>Top Repositories</b>
+</p>
 
-<div width="100%" align="center"><a href="https://github.com/jagadiswarambati/RAGSphere" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jagadiswarambati&repo=RAGSphere&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+### 🌐 Web Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs" />
+
+</p>
+
+### 🤖 AI & RAG
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+</p>
+
+**Areas I'm exploring:**
+
+- Generative AI
+- Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- Embeddings
+- Vector Databases
+- Semantic Search
+- Reranking
+- AI-powered Applications
+- AI Agents
+
+### 🗄️ Databases
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase,postgres" />
+
+</p>
+
+### ⚙️ Backend & APIs
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
+
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,androidstudio" />
+
+</p>
+
+---
+
+# 🚀 What I'm Currently Working On
+
+- 🤖 AI-powered applications
+- 🔎 RAG-based systems
+- 🌐 Full-stack applications
+- 📱 Practical mobile applications
+- 🏆 Hackathon projects
+- ☁️ Cloud-based applications
+- 🧠 Improving problem-solving and DSA
+
+---
+
+# 📌 Areas of Interest
+
+```text
+Artificial Intelligence
+        ↓
+Generative AI
+        ↓
+RAG Systems
+        ↓
+Embeddings & Vector Search
+        ↓
+AI Applications
