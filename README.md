@@ -51,12 +51,13 @@ I enjoy exploring **Web Development, App Development, Artificial Intelligence, R
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,androidstudio" />
 </p>
 
+
 # 🐍 Contribution Snake
 
 <p align="center">
 
 <img
-  src="https://raw.githubusercontent.com/jagadiswarambati/jagadiswarambati/output/github-snake.gif"
+  src="https://raw.githubusercontent.com/jagadiswarambati/jagadiswarambati/output/github-contribution-grid-snake-dark.svg"
   alt="GitHub Contribution Snake"
 />
 
