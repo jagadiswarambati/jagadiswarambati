@@ -42,7 +42,7 @@ I enjoy exploring **Web Development, App Development, Artificial Intelligence, R
 ### Backend & Database
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=fastapi,mysql,firebase,postgres" />
+<img src="https://skillicons.dev/icons?i=fastapi,mysql,firebase,postgres,flask" />
 </p>
 
 ### Tools
