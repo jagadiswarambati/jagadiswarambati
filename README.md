@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jagadiswar Ambati
+# 👋 Hi, I'm Ambati Jagadiswar Reddy
 
 ### 💻 Computer Science Student | 🤖 AI & RAG Enthusiast 
 
