@@ -9,19 +9,34 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate LeetCode Heatmap
-        uses: yuyueweizhang/leetcode-heatmap@main
-        with:
-          username: jagadiswarambati
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Commit and Push
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Generate LeetCode Heatmap
+        env:
+          LEETCODE_USERNAME: jagadiswarambati
+        run: python scripts/generate_leetcode_heatmap.py
+
+      - name: Commit heatmap
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .
-          git diff --cached --quiet || git commit -m "Update LeetCode heatmap"
+
+          git add leetcode-heatmap.svg
+
+          git diff --cached --quiet || git commit -m "chore: update LeetCode heatmap"
+
           git push
