@@ -72,6 +72,15 @@ I enjoy exploring **Web Development, App Development, Artificial Intelligence, R
   />
 </p>
 
+<h2>🧩 LeetCode</h2>
+
+<p align="center">
+  <img
+    src="./leetcode-heatmap.svg"
+    alt="LeetCode Heatmap"
+  />
+</p>
+
 
 ## 🌐 Connect With Me
 
