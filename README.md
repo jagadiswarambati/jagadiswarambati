@@ -67,7 +67,7 @@ I enjoy exploring **Web Development, App Development, Artificial Intelligence, R
 
 <p align="center">
   <img
-    src="https://leetcard.jacoblin.cool/jagadiswarambati?theme=dark&ext=heatmap"
+    src="https://leetcard.jacoblin.cool/jagadiswar993?theme=dark&ext=heatmap"
     alt="LeetCode Heatmap"
   />
 </p>
