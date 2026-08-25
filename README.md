@@ -63,6 +63,16 @@ I enjoy exploring **Web Development, App Development, Artificial Intelligence, R
 
 </p>
 
+## 🧩 LeetCode
+
+<p align="center">
+  <img
+    src="https://leetcard.jacoblin.cool/jagadiswarambati?theme=dark&ext=heatmap"
+    alt="LeetCode Heatmap"
+  />
+</p>
+
+
 ## 🌐 Connect With Me
 
 <p align="left">
