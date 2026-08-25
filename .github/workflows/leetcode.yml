@@ -1,0 +1,27 @@
+name: Generate LeetCode Heatmap
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate LeetCode Heatmap
+        uses: yuyueweizhang/leetcode-heatmap@main
+        with:
+          username: jagadiswarambati
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git diff --cached --quiet || git commit -m "Update LeetCode heatmap"
+          git push
