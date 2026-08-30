@@ -30,7 +30,7 @@ I enjoy exploring **Web Development, App Development, Artificial Intelligence, R
 ### Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,kotlin" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,kotlin,c" />
 </p>
 
 ### Web Development
@@ -42,13 +42,13 @@ I enjoy exploring **Web Development, App Development, Artificial Intelligence, R
 ### Backend & Database
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=fastapi,mysql,firebase,postgres,flask" />
+<img src="https://skillicons.dev/icons?i=fastapi,mysql,firebase,flask" />
 </p>
 
 ### Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,androidstudio" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,androidstudio,n8n" />
 </p>
 
 
