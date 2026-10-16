@@ -36,13 +36,13 @@ I enjoy exploring **Web Development, App Development, Artificial Intelligence, R
 ### Web Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express.js" />
 </p>
 
 ### Backend & Database
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=fastapi,mysql,firebase,flask" />
+<img src="https://skillicons.dev/icons?i=fastapi,mysql,firebase,flask,supabase" />
 </p>
 
 ### Tools
