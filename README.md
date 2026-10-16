@@ -48,7 +48,7 @@ I enjoy exploring **Web Development, App Development, Artificial Intelligence, R
 ### Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,androidstudio,n8n,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,androidstudio,postman" />
 </p>
 
 
