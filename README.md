@@ -75,17 +75,18 @@ I enjoy exploring **Web Development, App Development, Artificial Intelligence, R
 
 
 ## 🌐 Connect With Me
-
 <p align="left">
+  <a href="https://github.com/jagadiswarambati">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-<a href="https://github.com/jagadiswarambati">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/ambati-jagadiswar-reddy-b17697366/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/ambati-jagadiswar-reddy-b17697366/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+  <a href="https://temp-portfolio-two-ruddy.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 
